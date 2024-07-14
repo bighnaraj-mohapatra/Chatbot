@@ -1,0 +1,15 @@
+credentials.ini
+.env
+.streamlit/
+
+# Ignore generated files and directories
+.ipynb_checkpoints
+__pycache__/
+etc/
+Include/
+Lib/
+Scripts/
+share/
+pages.json
+users.db
+pyvenv.cfg
